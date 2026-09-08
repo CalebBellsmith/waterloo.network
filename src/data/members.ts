@@ -148,6 +148,17 @@ export const members: Member[] = [
   // },
 
   {
+    id: "yohance-pawania",
+    name: "Yohance Pawania",
+    website: "https://yohancepawania.dev",
+    program: "Computer Science",
+    year: "2031",
+    profilePic: "/photos/yohance-pawania.png",
+    twitter: "https://x.com/ypawania_",
+    linkedin: "https://www.linkedin.com/in/yohance-pawania-30aa902a4/",
+    connections: ["fiona-cai", "shayaan-azeem", "zane-beeai", "casper-dong", "aayan-rahman", "tony-pan"],
+  },
+  {
     id: "zain-khalil",
     name: "Zain Khalil",
     website: "https://zainkhalil.ca",
@@ -159,7 +170,6 @@ export const members: Member[] = [
     linkedin: "https://www.linkedin.com/in/zainskhalil/",
     connections: ["avaansh-nanda", "isha-shenoy"],
   },
-
   {
     id: "shayaan-azeem",
     name: "Shayaan Azeem",
@@ -670,6 +680,16 @@ export const members: Member[] = [
     connections: ["zane-beeai"],
   },
   {
+    id: "jinay-patel",
+    name: "Jinay Patel",
+    website: "https://jinay-patel.vercel.app/",
+    profilePic: "/photos/jinay-patel.jpg",
+    connections: ["shayaan-azeem"],  // friends in the webring
+    program: "Computer Engineering",
+    year: "2031",
+    linkedin: "https://www.linkedin.com/in/jinay-patel-6369002b4/",
+  },
+  {
     id: "ali-imran",
     name: "Ali Imran",
     website: "https://aliimrans.com",
@@ -680,6 +700,21 @@ export const members: Member[] = [
     twitter: "https://x.com/aliidevs",
     linkedin: "https://www.linkedin.com/in/ali-intelligence",
     connections: ["shayaan-azeem", "abdullah-rajput", "ricky-tang", "pranav-marthi"],
+  },
+// ============================================
+  {
+    id: "zain-khan",
+    name: "Zain Khan",
+    website: "https://zainkhan.dev",
+    program: "Computer Engineering",
+    year: "2030",
+    roles: [],
+    verticals: [],
+    profilePic: "/photos/zain-khan.jpg",
+    instagram: "https://www.instagram.com/7k.zain/",
+    twitter: "https://x.com/sevenkzain",
+    linkedin: "https://www.linkedin.com/in/zainkkhan/",
+    connections: ["abdullah-rajput"],
   },
   // ADD YOUR ENTRY ABOVE THIS LINE
   // ============================================
