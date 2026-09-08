@@ -677,6 +677,21 @@ export const members: Member[] = [
     linkedin: "https://www.linkedin.com/in/ali-intelligence",
     connections: ["shayaan-azeem", "abdullah-rajput", "ricky-tang", "pranav-marthi"],
   },
+// ============================================
+  {
+    id: "zain-khan",
+    name: "Zain Khan",
+    website: "https://zainkhan.dev",
+    program: "Computer Engineering",
+    year: "2030",
+    roles: [],
+    verticals: [],
+    profilePic: "/photos/zain-khan.jpg",
+    instagram: "https://www.instagram.com/7k.zain/",
+    twitter: "https://x.com/sevenkzain",
+    linkedin: "https://www.linkedin.com/in/zainkkhan/",
+    connections: ["abdullah-rajput"],
+  },
   // ADD YOUR ENTRY ABOVE THIS LINE
   // ============================================
 ];
