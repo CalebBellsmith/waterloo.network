@@ -666,6 +666,16 @@ export const members: Member[] = [
     connections: ["shayaan-azeem"]
   },
   {
+    id: "jinay-patel",
+    name: "Jinay Patel",
+    website: "https://jinay-patel.vercel.app/",
+    profilePic: "/photos/jinay-patel.jpg",
+    connections: ["shayaan-azeem"],  // friends in the webring
+    program: "Computer Engineering",
+    year: "2031",
+    linkedin: "https://www.linkedin.com/in/jinay-patel-6369002b4/",
+  },
+  {
     id: "ali-imran",
     name: "Ali Imran",
     website: "https://aliimrans.com",
