@@ -113,7 +113,7 @@ export const members: Member[] = [
     linkedin: "https://linkedin.com/in/jamie-seoh",
     connections: ["fiona-cai","ricky-tang","abdullah-rajput","vidu-widyalankara","victor-huang"],
   },
-  
+
   {
     id: "mubarak-piracha",
     name: "Mubarak Ali Piracha",
@@ -148,6 +148,17 @@ export const members: Member[] = [
   // },
 
   {
+    id: "yohance-pawania",
+    name: "Yohance Pawania",
+    website: "https://yohancepawania.dev",
+    program: "Computer Science",
+    year: "2031",
+    profilePic: "/photos/yohance-pawania.png",
+    twitter: "https://x.com/ypawania_",
+    linkedin: "https://www.linkedin.com/in/yohance-pawania-30aa902a4/",
+    connections: ["fiona-cai", "shayaan-azeem", "zane-beeai", "casper-dong", "aayan-rahman", "tony-pan"],
+  },
+  {
     id: "zain-khalil",
     name: "Zain Khalil",
     website: "https://zainkhalil.ca",
@@ -159,7 +170,6 @@ export const members: Member[] = [
     linkedin: "https://www.linkedin.com/in/zainskhalil/",
     connections: ["avaansh-nanda", "isha-shenoy"],
   },
-
   {
     id: "shayaan-azeem",
     name: "Shayaan Azeem",
