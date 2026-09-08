@@ -87,6 +87,34 @@ export const members: Member[] = [
   // ============================================
 
   {
+    id: "rohanth-marem",
+    name: "Rohanth Marem",
+    website: "https://rohanth.com",
+    program: "Computer Science",
+    year: "2030",
+    roles: ["engineering", "software", "hardware"],
+    verticals: ["robotics", "ai", "healthcare"],
+    profilePic: "/photos/rohanth-marem.jpg",
+    twitter: "https://x.com/rohanthmarem",
+    connections: ["shayaan-azeem", "daniel-ching", "kevin-thomas", "austin-jian", "casper-dong", "zane-beeai"],
+  },
+
+  {
+    id: "jamie-seoh",
+    name: "Jamie Seoh",
+    website: "https://dwseoh.com",
+    program: "Software Engineering",
+    year: "2030",
+    roles: ["engineering", "ai/ml", "software"],
+    verticals: ["ai", "robotics", "consumer"],
+    profilePic: "/photos/jamie-seoh.jpg",
+    instagram: "https://instagram.com/dongwan_seoh",
+    twitter: "https://x.com/sdw1_",
+    linkedin: "https://linkedin.com/in/jamie-seoh",
+    connections: ["fiona-cai","ricky-tang","abdullah-rajput","vidu-widyalankara","victor-huang"],
+  },
+
+  {
     id: "mubarak-piracha",
     name: "Mubarak Ali Piracha",
     website: "https://mubarakpiracha.xyz",
@@ -229,7 +257,7 @@ export const members: Member[] = [
   {
     id: "aayan-rahman",
     name: "Aayan Rahman",
-    website: "https://aayanrahman.me",
+    website: "https://ece.uwaterloo.ca/~a235rahm/",
     program: "Electrical Engineering",
     year: "2030",
     // options: engineering, design, product, growth, ai/ml, research, hardware, quant, software, finance, vc
@@ -240,7 +268,7 @@ export const members: Member[] = [
     instagram: "https://www.instagram.com/aayanr300/",
     twitter: "https://x.com/aayanr07",
     linkedin: "https://www.linkedin.com/in/aayan-rahman/",
-    connections: ["zane-beeai", "shayaan-azeem"],
+    connections: ["zane-beeai", "shayaan-azeem", "casper-dong", "avaansh-nanda"],
   },
   {
     id: "ibrahim-ansari",
@@ -639,7 +667,19 @@ export const members: Member[] = [
     verticals: ["robotics", "defense", "healthcare", "hard tech"],
     profilePic: "/photos/caleb-bellsmith.jpg",
     linkedin: "https://www.linkedin.com/in/calebbellsmithuw/",
-    connections: ["zane-beeai"]
+    connections: ["zane-beeai"],
+  },
+  {
+    id: "ali-imran",
+    name: "Ali Imran",
+    website: "https://aliimrans.com",
+    program: "Software Engineering",
+    roles: ["engineering", "ai/ml", "software"],
+    verticals: ["ai", "robotics", "saas"],
+    profilePic: "/photos/ali-imran.jpg",
+    twitter: "https://x.com/aliidevs",
+    linkedin: "https://www.linkedin.com/in/ali-intelligence",
+    connections: ["shayaan-azeem", "abdullah-rajput", "ricky-tang", "pranav-marthi"],
   },
   // ADD YOUR ENTRY ABOVE THIS LINE
   // ============================================
